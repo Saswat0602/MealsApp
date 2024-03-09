@@ -9,7 +9,6 @@ import MealDetailScreen from './Screens/MealDetailScreen';
 
 const Stack = createNativeStackNavigator();
 
-
 export default function App() {
   return (
     <>
